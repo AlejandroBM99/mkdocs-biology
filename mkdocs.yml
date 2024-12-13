@@ -1,0 +1,10 @@
+site_name: Biología
+nav:
+  - La Célula:
+      - Introducción: cell.md
+      - Tipos de células:
+        - La Célula Eucariota: eukaryote.md
+        - La Célula Procariota: prokaryote.md
+theme:
+  name: material
+  language: es
