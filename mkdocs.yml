@@ -5,6 +5,11 @@ nav:
       - Tipos de células:
         - La Célula Eucariota: eukaryote.md
         - La Célula Procariota: prokaryote.md
+  - Enfermedades:
+      - Introducción: disease.md
+      - Tipos de contagio:
+          - Infecciosas: infection.md
+          - No infecciosas:
 theme:
   name: material
   language: es
