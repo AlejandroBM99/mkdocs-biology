@@ -10,9 +10,9 @@ La célula es la unidad más pequeña de la vida, ya que realiza las tres funcio
 
 La célula tiene varias partes esenciales, cada una con una función específica:
 
-* **Membrana plasmática**. Fina capa que envuelve a la célula. A través de ella salen y entran sustancias o desechos.
-* **Citoplasma**. Líquido viscoso que ocupa el interior de la célula. En él se encuentran flotando los orgánulos.
-* **Núcleo**. Al ser eucariota, nuestras células tienen un núcleo delimitado por una envoltura, de forma esférica. Dentro de él está el material genético que controla el funcionamiento de la célula.
+* **Membrana plasmática.** Fina capa que envuelve a la célula. A través de ella salen y entran sustancias o desechos.
+* **Citoplasma.** Líquido viscoso que ocupa el interior de la célula. En él se encuentran flotando los orgánulos.
+* **Núcleo.** Al ser eucariota, nuestras células tienen un núcleo delimitado por una envoltura, de forma esférica. Dentro de él está el material genético que controla el funcionamiento de la célula.
 
 
 ## 🧬 Cromatina

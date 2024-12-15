@@ -1,9 +1,5 @@
 # Bienvenido
 
-## Índi
-     * [La Célula Eucariota](eukaryote.md)
-     * [La Célula Procariota](prokaryote.md)ce de Contenidos
+Aquí antes había un índice, pero tener que modificar el mkdocs.yml y el index.md cada vez que agrego un archivo es... exasperante. Ya veré que añado aquí. Por el momento, dejo una imagen de Roger y al menos algo decora este inicio.
 
-* [La Célula](cell.md)
-* [Enfermedades](disease.md)
-     * [Infecciosas](infection.md)
+![roger.jpg](roger.jpg)
