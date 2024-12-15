@@ -1,17 +1,5 @@
-# Welcome to MkDocs
+# Bienvenido
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Aquí antes había un índice, pero tener que modificar el mkdocs.yml y el index.md cada vez que agrego un archivo es... exasperante. Ya veré que añado aquí. Por el momento, dejo una imagen de Roger y al menos algo decora este inicio.
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+![roger.jpg](roger.jpg)

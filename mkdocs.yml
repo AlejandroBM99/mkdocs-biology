@@ -1,11 +1,28 @@
 site_name: Biología
 nav:
   - La Célula:
-      - Introducción: cell.md
+      - Introducción: cell/cell.md
       - Tipos de células:
-        - La Célula Eucariota: eukaryote.md
-        - La Célula Procariota: prokaryote.md
+          - Sanguíneas: cell/blood-cell.md
+  - Aparatos:
+      - Introducción: system/system.md
+      - Lista de aparatos:
+          - Aparato digestivo: system/digestive/digestive.md
+  - Enfermedades:
+      - Introducción: disease/disease.md
+      - Tipos de contagio:
+          - Infecciosas: disease/infection.md
+          - No infecciosas: disease/non-infection.md
 theme:
   name: material
   language: es
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
 site_url: https://github.com/AlejandroBM99/mkdocs-biology
