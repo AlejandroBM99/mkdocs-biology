@@ -5,7 +5,8 @@ Explora los fascinantes aspectos de la biología organizados en las siguientes s
 ## 🧬 La Célula
 - **[Introducción](cell/cell.md):** Aprende sobre la unidad básica de la vida.
 - **[Tejidos](cell/tissue.md):** Conoce los tejidos que forman los organismos multicelulares.
-- **[Tipos de células](cell/blood-cell.md):** Descubre las diversas funciones de las células sanguíneas.
+- **Tipos de células:**
+    - [Células sanguíneas](cell/blood-cell.md): Descubre las diversas funciones de las células sanguíneas.
 
 ## ⚙️ Aparatos
 - **[Introducción](system/system.md):** Una visión general de los sistemas del cuerpo humano.
@@ -18,7 +19,3 @@ Explora los fascinantes aspectos de la biología organizados en las siguientes s
     - [No infecciosas](disease/non-infection.md): Enfermedades causadas por factores no infecciosos.
 
 ---
-
-## ℹ️ Acerca de este sitio
-Este proyecto busca compilar y explicar los fundamentos de la biología de forma clara y accesible.  
-Contribuye o revisa el código fuente en [nuestro repositorio de GitHub](https://github.com/AlejandroBM99/mkdocs-biology). 🎉

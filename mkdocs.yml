@@ -26,6 +26,8 @@ extra:
   social:
     - icon: material/github
       link: https://github.com/AlejandroBM99/mkdocs-biology
+    - icon: material/web-box
+      link: https://alejandrobm99.github.io/mkdocs-biology/
   navigation:
     title: Menú Principal
 nav:
