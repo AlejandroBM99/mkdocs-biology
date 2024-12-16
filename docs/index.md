@@ -1,5 +1,21 @@
-# Bienvenido
+# Bienvenido a Biología 🌿
 
-Aquí antes había un índice, pero tener que modificar el mkdocs.yml y el index.md cada vez que agrego un archivo es... exasperante. Ya veré que añado aquí. Por el momento, dejo una imagen de Roger y al menos algo decora este inicio.
+Explora los fascinantes aspectos de la biología organizados en las siguientes secciones principales:
 
-![roger.jpg](roger.jpg)
+## 🧬 La Célula
+- **[Introducción](cell/cell.md):** Aprende sobre la unidad básica de la vida.
+- **[Tejidos](cell/tissue.md):** Conoce los tejidos que forman los organismos multicelulares.
+- **Tipos de células:**
+    - [Células sanguíneas](cell/blood-cell.md): Descubre las diversas funciones de las células sanguíneas.
+
+## ⚙️ Aparatos
+- **[Introducción](system/system.md):** Una visión general de los sistemas del cuerpo humano.
+- **[Aparato digestivo](system/digestive/digestive.md):** El proceso de la digestión, explicado paso a paso.
+
+## 🩺 Enfermedades
+- **[Introducción](disease/disease.md):** ¿Qué son las enfermedades y cómo nos afectan?
+- **[Tipos de contagio](disease/infection.md):**
+    - [Infecciosas](disease/infection.md): Enfermedades causadas por microorganismos.
+    - [No infecciosas](disease/non-infection.md): Enfermedades causadas por factores no infecciosos.
+
+---
