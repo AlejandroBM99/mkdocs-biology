@@ -1,48 +1,4 @@
 site_name: Biología
-site_url: https://github.com/AlejandroBM99/mkdocs-biology
 theme:
   name: material
   language: es
-  features:
-    - navigation.tabs
-    - navigation.sections
-    - toc.integrate
-    - content.code.annotate
-    - search.highlight
-  palette:
-    - scheme: default
-      primary: lime
-      accent: green
-      toggle:
-        icon: material/weather-sunny
-        name: Claro
-    - scheme: slate
-      primary: teal
-      accent: cyan
-      toggle:
-        icon: material/weather-night
-        name: Oscuro
-extra:
-  social:
-    - icon: material/github
-      link: https://github.com/AlejandroBM99/mkdocs-biology
-    - icon: material/web-box
-      link: https://alejandrobm99.github.io/mkdocs-biology/
-  navigation:
-    title: Menú Principal
-nav:
-  - Inicio: index.md
-  - La Célula:
-      - Introducción: cell/cell.md
-      - Tejidos: cell/tissue.md
-      - Tipos de células:
-          - Sanguíneas: cell/blood-cell.md
-  - Aparatos:
-      - Introducción: system/system.md
-      - Lista de aparatos:
-          - Aparato digestivo: system/digestive/digestive.md
-  - Enfermedades:
-      - Introducción: disease/disease.md
-      - Tipos de contagio:
-          - Infecciosas: disease/infection.md
-          - No infecciosas: disease/non-infection.md
