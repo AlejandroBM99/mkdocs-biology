@@ -42,3 +42,8 @@ img:hover {
   user-select: none;
   z-index: 10000;
 }
+
+mermaid.initialize({
+  securityLevel: 'loose',
+  theme: 'base',
+});

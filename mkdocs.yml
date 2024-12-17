@@ -34,6 +34,9 @@ extra_css:
   - css/custom.css
 extra_javascript:
   - js/popup.js
+plugins:
+  - search
+  - mermaid2
 nav:
   - Inicio: index.md
   - La Célula:
@@ -43,8 +46,14 @@ nav:
           - Sanguíneas: cell/blood-cell.md
   - Aparatos:
       - Introducción: system/system.md
+      - Los cinco sentidos: system/sense.md
+      - Funciones del cuerpo humano: system/function.md
       - Lista de aparatos:
           - Aparato digestivo: system/digestive.md
+          - Aparato locomotor: system/locomotor.md
+      - Sistemas:
+          - Sistema esquelético: system/skeleton.md
+          - Sistema muscular: system/muscular.md
   - Enfermedades:
       - Introducción: disease/disease.md
       - Tipos de contagio:
