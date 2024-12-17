@@ -17,7 +17,7 @@ Los sistemas están formados por órganos del mismo tipo que realizan una funci�
 
 Está formado por un conjunto de órganos diferentes que realizan una función común.
 
-* **[Aparato digestivo](digestive/digestive.md).**
+* **[Aparato digestivo](digestive.md).**
 Está formado por el tubo digestivo y las glándulas anejas. Su función es transformar los alimentos que ingerimos en sustancias más sencillas, los nutrientes.
 * **Aparato respiratorio.** Está formado por los pulmones y las vías respiratorias. Su función es realizar el intercambio de gases con el exterior: introduce oxígeno y expulsa dióxido de carbono.
 * **Aparato reproductor.** Puede ser masculino o femenino. Su función es producir óvulos y espermatozoides, que son las células que intervienen en la reproducción.

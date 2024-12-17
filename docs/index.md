@@ -10,7 +10,7 @@ Explora los fascinantes aspectos de la biología organizados en las siguientes s
 
 ## ⚙️ Aparatos
 - **[Introducción](system/system.md):** Una visión general de los sistemas del cuerpo humano.
-- **[Aparato digestivo](system/digestive/digestive.md):** El proceso de la digestión, explicado paso a paso.
+- **[Aparato digestivo](system/digestive.md):** El proceso de la digestión, explicado paso a paso.
 
 ## 🩺 Enfermedades
 - **[Introducción](disease/disease.md):** ¿Qué son las enfermedades y cómo nos afectan?

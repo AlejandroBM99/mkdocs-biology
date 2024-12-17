@@ -30,6 +30,10 @@ extra:
       link: https://alejandrobm99.github.io/mkdocs-biology/
   navigation:
     title: Menú Principal
+extra_css:
+  - css/custom.css
+extra_javascript:
+  - js/popup.js
 nav:
   - Inicio: index.md
   - La Célula:
@@ -40,7 +44,7 @@ nav:
   - Aparatos:
       - Introducción: system/system.md
       - Lista de aparatos:
-          - Aparato digestivo: system/digestive/digestive.md
+          - Aparato digestivo: system/digestive.md
   - Enfermedades:
       - Introducción: disease/disease.md
       - Tipos de contagio:
