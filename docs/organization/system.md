@@ -17,12 +17,12 @@ Los sistemas están formados por órganos del mismo tipo que realizan una funci�
 
 Está formado por un conjunto de órganos diferentes que realizan una función común.
 
-* **[Aparato digestivo](digestive.md).**
+* **[Aparato digestivo](../system/digestive.md).**
 Está formado por el tubo digestivo y las glándulas anejas. Su función es transformar los alimentos que ingerimos en sustancias más sencillas, los nutrientes.
 * **Aparato respiratorio.** Está formado por los pulmones y las vías respiratorias. Su función es realizar el intercambio de gases con el exterior: introduce oxígeno y expulsa dióxido de carbono.
 * **Aparato reproductor.** Puede ser masculino o femenino. Su función es producir óvulos y espermatozoides, que son las células que intervienen en la reproducción.
 * **Aparato excretor.** Está formado por los riñones, las vías urinarias y las glándulas sudoríparas. Se encarga de eliminar las sustancias de desecho del organismo. 
 * **Aparato circulatorio.** Está formado por el corazón y los vasos sanguíneos (venas, arterias y capilares). Su función consiste en transportar los nutrientes, las sustancias de desecho, el oxígeno y el dióxido de carbono a través del cuerpo.
-* **Aparato locomotor.** Está formado por músculos, huesos y articulaciones. Su función es realizar los movimientos voluntarios.
+* [**Aparato locomotor**](../system/locomotor.md). Está formado por músculos, huesos y articulaciones. Su función es realizar los movimientos voluntarios.
 
 ---

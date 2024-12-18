@@ -5,7 +5,6 @@ El aparato locomotor realiza los movimientos que ordena el sistema nervioso en r
 El aparato locomotor está formado por el [**sistema esquelético**](skeleton.md) y el [**sistema muscular**](muscular.md), que actúan conjuntamente para permitir el movimiento del cuerpo.
 
 ```mermaid
-%%{init: {'theme':'forest'}}%%
 flowchart LR
     A[Estímulo]:::orange --> B[Receptor]:::green
     B --> C[Impulso nervioso]:::orange
