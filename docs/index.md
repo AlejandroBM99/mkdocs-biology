@@ -8,9 +8,15 @@ Explora los fascinantes aspectos de la biología organizados en las siguientes s
 - **Tipos de células:**
     - [Células sanguíneas](cell/blood-cell.md): Descubre las diversas funciones de las células sanguíneas.
 
-## ⚙️ Aparatos
-- **[Introducción](system/system.md):** Una visión general de los sistemas del cuerpo humano.
-- **[Aparato digestivo](system/digestive/digestive.md):** El proceso de la digestión, explicado paso a paso.
+## ⚙️ Sistemas, aparatos y sentidos
+- **[Introducción](organization/system.md):** Una visión general de los sistemas del cuerpo humano.
+- **Sistemas**:
+    - [**Sistema esquelético**](system/skeleton.md)
+    - [**Sistema muscular**](system/muscular.md)
+- **Aparatos**:
+    - **[Aparato digestivo](system/digestive.md)**
+    - **[Aparato respiratorio](system/respiratory.md)**
+    - **[Aparato locomotor](system/locomotor.md)**
 
 ## 🩺 Enfermedades
 - **[Introducción](disease/disease.md):** ¿Qué son las enfermedades y cómo nos afectan?

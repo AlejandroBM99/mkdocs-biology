@@ -26,4 +26,7 @@ La célula tiene varias partes esenciales, cada una con una función específica
 * **Centriolos.** Son dos estructuras formadas por proteínas. Tienen aspecto de tubo y se sitúan cerca del núcleo. Intervienen en la división celular, permitiendo el reparto de los cromosomas entre las células hijas.
 * **Lisosomas.** Realizan la digestión de sustancias en el interior de la célula. Degradan las moléculas complejas en sustancias más sencillas.
 
+![cell.png](cell.png "Célula")
+*Principales orgánulos celulares.*
+
 ---
