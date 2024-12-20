@@ -32,3 +32,14 @@ Las enfermedades aparecen cuando existen problemas de salud que afectan a nuestr
 * **Asma.**  Estrechamiento temporal de los conductos respiratorios, que dificulta el paso del aire por las vías respiratorias. Se desencadena por alergia, ejercicio intenso, infecciones...
     * Síntomas: tos, falta de aliento, silbido al espirar, sensación de ahogo
     * Tratamiento: broncodilatadores.
+
+## Enfermedades del aparato circulatorio
+
+Las enfermedades que afectan al corazón y los vasos sanguíneos el nombre de **enfermedades cardiovasculares**.
+
+* **Arterioesclerosis.** Estrechamiento y endurecimiento de las arterias.
+* **Trombo.** Un atasco en el sistema circulatorio. La arterioesclerosis puede propiciarlo.
+* **Infarto de miocardio.** Es la muerte de parte del músculo cardiaco y, en algunos casos, la muerte de la persona. Se da cuanto un trombo se produce en una de las arterias que llevan sangre oxigenada al corazón.
+
+> **Dato**  
+> El **miocardio** es el músculo del corazón. Esta palabra proviene del latín _mio_ (músculo) y _cardio_ (corazón).

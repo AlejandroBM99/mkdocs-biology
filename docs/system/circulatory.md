@@ -1,4 +1,4 @@
-# Sistema circulatorio
+# Aparato circulatorio
 
 ## Anatomía
 
@@ -29,3 +29,28 @@ La sangre llega a las aurículas a través de las venas cavas y las venas pulmon
 #### El latido cardiaco
 
 La contracción del músculo cardiaco se llama **sístole**, y la relajación, **diástole**. La sucesión de sístoles y diástoles da lugar al latido cardiaco, que se puede detectar apoyando la mano sobre el pecho. La sístole de las aurículas hace que la sangre pase a los ventrículos y la sístole de los ventrículos impulsa la sangre por las arterias.
+
+## Circulación de la sangre
+
+El ser humano tiene circulación doble, porque la sangre pasa dos veces por el corazón en el mismo recorrido y realiza dos circuitos diferentes:
+
+* **Circuito pulmonar o circulación menor.** Se encarga de enviar a los pulmones la sangre cargada de CO$_2$ de todo el cuerpo para que se realice el intercambio gaseoso y vuelva al corazón llena de O$_2$.
+  1. La sangre llega a la aurícula derecha a través de las vena cava superior e inferior.
+  2. Pasa de la aurícula derecha al ventrículo derecho.
+  3. Del ventrículo derecho se envía hacia las dos arterias pulmonares (una por pulmón).
+  4. Se produce el intercambio gaseoso al pasar la sangre por alveólos pulmonares (capilares).
+  5. La sangre vuelve al corazón a través de las venas pulmonares, llegando a la aurícula izquierda.
+* **Circuito general o circulación mayor.** Recibe la sangre rica en O$_2$, y la envía a todo el cuerpo para que sea usada: lleva el oxígeno y recibe los desechos
+  1. La sangre llega desde los pulmones, a través de las venas pulmonares, a la aurícula izquierda.
+  2. Pasa de la aurícula izquierda al ventrículo izquierdo.
+  3. La sangre es expulsada por medio de la arteria aorta, que se subdivide, posteriormente, en muchas otras arterias
+  4. La sangre pasa por todo el cuerpo, cediendo el oxígeno, y recogiendo el CO$_2$ y otras sustancias de desecho. Además, recoge los nutrientes al pasar por el intestino.
+  5. La sangre vuelve al corazón, a través de las venas cavas, llegando a la aurícula derecha.
+
+## Sistema circulatorio linfático
+
+Una pequeña cantidad del plasma sanguíneo atraviesa las paredes de los capilares y se queda entre las células. Para que no se acumule y cause enfermedades, existe el sistema circulatorio linfático.
+
+* **Capilares y vasos sanguíneos.** Conductos muy finos que se encuentran en todos los órganos y que recogen el plasma que queda entre las células. Cuando se reúnen forman vasos linfáticos más gruesos, similares a las venas, que desembocan en el sistema circulatorio sanguíneo
+* **Linfa.** Líquido que circula por el interior de los capilares y los vasos linfáticos.
+* **Ganglios linfáticos.** Pequeños órganos que se encuentran en los vasos linfáticos. Contienen gran cantidad de unos glóbulos blancos llamados **linfocitos**. Los ganglios actúan como barrera defensiva ante los agentes infecciosos. Cuando tenemos una infección, los ganglios se inflaman.
