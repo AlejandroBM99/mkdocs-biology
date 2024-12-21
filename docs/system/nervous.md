@@ -12,4 +12,4 @@ Su función consiste en recibir información, interpretarla y elaborar una respu
 
 ## Sistema nervioso periférico
 
-Está formado por los nervios: fibras largas y delgadas que comunican el sistema nervioso central con todas las partes del cuerpo. Formados por las prolongaciones de las neuronas, sobre todo por los axones.
+Está formado por los nervios: fibras largas y delgadas que comunican el sistema nervioso central con todas las partes del cuerpo. Formados por las prolongaciones de las neuronas, sobre todo por los axones. Los que sale del encéfalo son los **nervios craneales**, y los que parten de la médula espinal son los **nervios espinales**. Los nervios se dedican a llevar información (órganos de los sentidos u otros) al sistema nervioso central, y llevar órdenes en orden inverso.
