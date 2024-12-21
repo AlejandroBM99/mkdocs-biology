@@ -42,4 +42,10 @@ Las enfermedades que afectan al corazón y los vasos sanguíneos el nombre de **
 * **Infarto de miocardio.** Es la muerte de parte del músculo cardiaco y, en algunos casos, la muerte de la persona. Se da cuanto un trombo se produce en una de las arterias que llevan sangre oxigenada al corazón.
 
 > **Dato**  
-> El **miocardio** es el músculo del corazón. Esta palabra proviene del latín _mio_ (músculo) y _cardio_ (corazón).
+> El **miocardio** es el músculo del corazón. Esta palabra proviene del latín _mio_ (músculo) y _cardio_ (corazón). 
+
+## Enfermedades del aparato excretor
+
+* **Cólico nefrítico.** Dolor agudo originado por la obstrucción de alguna vía urinaria debida a algún **cálculo** o «piedra». Estos cálculos se forman en el riñón a partir de sales minerales y otras sustancias. Al descender por las vías urinarias se produce el dolor.
+* **Cistitis.** Enfermedad infecciosa causada por bacterias que invaden las vías urinarias. Los pacientes suelen presentar un cuadro de incontinencia urinaria dada la inflamación producida.
+    * Tratamiento: antibióticos.

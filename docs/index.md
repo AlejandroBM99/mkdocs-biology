@@ -6,7 +6,7 @@ Explora los fascinantes aspectos de la biología organizados en las siguientes s
 - **[Introducción](cell/cell.md):** Aprende sobre la unidad básica de la vida.
 - **[Tejidos](cell/tissue.md):** Conoce los tejidos que forman los organismos multicelulares.
 - **Tipos de células:**
-    - [Células sanguíneas](cell/blood-cell.md): Descubre las diversas funciones de las células sanguíneas.
+    - [Células sanguíneas](cell/cell.md#células-sanguíneas): Descubre las diversas funciones de las células sanguíneas.
 
 ## ⚙️ Sistemas, aparatos y sentidos
 - **[Introducción](organization/system.md):** Una visión general de los sistemas del cuerpo humano.

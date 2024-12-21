@@ -29,4 +29,27 @@ La célula tiene varias partes esenciales, cada una con una función específica
 ![cell.png](cell.png "Célula")
 *Principales orgánulos celulares.*
 
+## Células sanguíneas
+
+* **Glóbulos rojos o eritrocitos o hematíes.** Células más abundantes en la sangre. Son pequeñas y sun función es transportar oxígeno y dióxido de carbono.
+
+* **Glóbulos blancos o leucocitos.** Son menos numerosos que los eritrocitos. Su función es defender el organismo ante las infecciones.
+
+* **Plaquetas o trombocitos.** Son trozos de unas células más grandes (los megacariocitos). Ayudan a formar un coágulo para taponar las heridas y evitar que se escape la sangre.
+
+> **Dato curioso**  
+> Los eritrocitos son 1000 veces más frecuentes en la sangre que los leucocitos.
+
+![hematopoiesis.jpg](hematopoiesis.jpg "Hematopoyesis")
+*Hematopoyesis o hemopoyesis o proceso de formación, desarrollo y maduración de las células sanguíneas.*
+
+## Células del sistema nervioso
+
+* **Neuronas.** Están especializadas en recibir y transmitir información mediante impulsos nerviosos. Tienen un cuerpo celular en el que se encuentra el núcleo, y dos tipos de prolongaciones:
+    * **Dendritas.** Prolongaciones muy ramificadas. Reciben y transmiten los impulsos al cuerpo celular.
+    * **Axón.** Prolongación larga y delgada que sale del cuerpo celular y se ramifica en su extremo. Envía impulsos desde el cuerpo celular hasta otras neuronas o algún órgano.
+  
+    Las neuronas no se tocan entre sí, sino que existe un espacio entre ellas: la **sinapsis**. A través de este espacio se transmite el impulso nervioso mediante unas sustancias químicas llamadas **neurotransmisores**.
+* **Células de glía.** Se encuentran entre las neuronas. Hay diferentes tipos, con diferentes funciones, como aportar nutrientes o protección a las neuronas, o retirada de deshechos.
+
 ---

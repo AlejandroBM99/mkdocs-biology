@@ -15,7 +15,7 @@ Son los conductos por los que circula la sangre.
 La sangre es un líquido de color rojo y sabor salado que circula por el interior de los vasos sanguíneos.
 
 * **Plasma.** Es un líquido de color amarillento compuesto por agua con numerosas sustancias disueltas en ella, como nutrientes, sales minerales y sustancias de desecho.
-* **[Células sanguíneas](../cell/blood-cell.md).**
+* **[Células sanguíneas](../cell/cell.md#células-sanguíneas).**
 
 
 ### Corazón

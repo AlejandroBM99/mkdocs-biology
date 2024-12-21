@@ -53,8 +53,6 @@ nav:
   - La Célula:
       - Introducción: cell/cell.md
       - Tejidos: cell/tissue.md
-      - Tipos de células:
-          - Sanguíneas: cell/blood-cell.md
   - Sistemas y aparatos:
       - Introducción: organization/system.md
       - Los cinco sentidos: organization/sense.md
