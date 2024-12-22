@@ -8,3 +8,5 @@
 
 > **Curiosidad**  
 > Es el líquido sinovial el causante de los crujidos de los huesos. Por reacciones químicas, liberan pequeñas burbujas de gas que pueden explotar al estirar o doblas los dedos (dado que disminuye la presión).
+
+![skeleton.png](../img/skeleton.png)

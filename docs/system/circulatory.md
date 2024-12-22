@@ -22,7 +22,7 @@ La sangre es un líquido de color rojo y sabor salado que circula por el interio
 
 El corazón es el órgano que impulsa la sangre para que llegue a todas las partes del cuerpo. El corazón es un órgano del tamaño de un puño cuyas paredes están formadas por tejido muscular. Estas paredes se contraen y se relajan continuamente a fin de impulsar la sangre a todo el cuerpo. El interior del corazón está dividido en dos mitades, izquierda y derecha, separadas por un tabique que evita que la sangre de las dos mitades se mezcle. Cada mitad tiene dos cámaras: una superior llamada **aurícula**, a la que llegan las venas con sangre del cuerpo, y otra cámara inferior llamada **ventrículo**, que impulsa la sangre a través de las arterias.
 
-![heart.png](heart.png)
+![heart.png](../img/heart.png)
 
 La sangre llega a las aurículas a través de las venas cavas y las venas pulmonares. Cuando se contraen las aurículas, la sangre pasa de las aurículas a los ventrículos. Cuando se contraen los ventrículos, la sangre sale de ellos a través de la arteria aorta y la arteria pulmonar. Entre las aurículas y los ventrículos hay unas válvulas que hacen que la sangre no pase nunca de los ventrículos a las aurículas.
 

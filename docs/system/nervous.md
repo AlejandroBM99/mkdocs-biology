@@ -1,4 +1,4 @@
-# Aparato nervioso
+# Sistema nervioso
 
 Su función consiste en recibir información, interpretarla y elaborar una respuesta rápida y poco duradera. Está formado por tejido nervioso y dos tipos de células: [las neuronas y las células de la glía](../cell/cell.md#células-del-sistema-nervioso).
 

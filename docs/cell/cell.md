@@ -52,4 +52,6 @@ La célula tiene varias partes esenciales, cada una con una función específica
     Las neuronas no se tocan entre sí, sino que existe un espacio entre ellas: la **sinapsis**. A través de este espacio se transmite el impulso nervioso mediante unas sustancias químicas llamadas **neurotransmisores**.
 * **Células de glía.** Se encuentran entre las neuronas. Hay diferentes tipos, con diferentes funciones, como aportar nutrientes o protección a las neuronas, o retirada de deshechos.
 
+![neuron.png](../img/neuron.png)
+
 ---

@@ -49,3 +49,29 @@ Las enfermedades que afectan al corazón y los vasos sanguíneos el nombre de **
 * **Cólico nefrítico.** Dolor agudo originado por la obstrucción de alguna vía urinaria debida a algún **cálculo** o «piedra». Estos cálculos se forman en el riñón a partir de sales minerales y otras sustancias. Al descender por las vías urinarias se produce el dolor.
 * **Cistitis.** Enfermedad infecciosa causada por bacterias que invaden las vías urinarias. Los pacientes suelen presentar un cuadro de incontinencia urinaria dada la inflamación producida.
     * Tratamiento: antibióticos.
+
+## Enfermedades del sistema nervioso
+
+* **Poliomielitis.** Conocida también como polio, esta enfermedad causada por el virus poliovirus destruye los nervios encargados del control de los músculos y produce parálisis.
+* **Lesión medular.** Pueden producir parálisis en las piernas (paraplejia) o en los brazos también (tetraplejia).
+* **Enfermedades neurodegenerativas.**
+* **Alzheimer.** Causada por la muerte de cierto grupo de neuronas, comienza con pérdida de memoria. En estados avanzados el paciente es incapaz de realizar cualquiera de las actividades cotidianas.
+* **Parkinson.** Causada por la muerte de cierto grupo de neuronas, comienza con temblores en los miembros. A medida que avanza la enfermedad, los pacientes tienen dificultad para andar, hablar y realizar tareas sencillas.
+
+## Enfermedades del sistema endocrino
+
+* **Diabetes.** Consiste en una elevación de la cantidad de glucosa (azúcar) que hay en la sangre. Se produce por la baja producción de la hormona **insulina**, que permite a las células absorber la glucosa de la sangre para obtener energía. El exceso de glucosa en la sangre es muy perjudicial y provoca pérdida de peso, cansancio, sed intensa y muchas más complicaciones, como ceguera, enfermedades del corazón o incluso la muerte. En el caso de la diabetes tipo 1 el enfermo debe inyectarse insulina, mientras que en el caso de la diabetes tipo 2 es suficiente con llevar una dieta adecuada. 
+* **Enanismo.** Se produce una detención del crecimiento debido a la falta de la **hormona del crecimiento (GH)**. Se puede tratar mediante inyecciones de esta hormona.
+
+## Enfermedades del sistema locomotor
+
+* **Fractura.** Rotura de hueso.
+* **Esguince.** Torcedura de las articulaciones. Suelen ser víctima la muñeca, rodilla o el tobillo.
+* **Luxación.** Ocurre cuando un hueso se sale de su sitio.
+* **Contractura muscular.** Son una contracción involuntaria y mantenida de un músculo. Aparecen cuando un músculo realiza un esfuerzo para el que no está preparado o cuando se mantienen posturas incorrectas durante mucho tiempo.
+
+## Enfermedades del aparato reproductor
+
+
+
+---

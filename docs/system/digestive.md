@@ -10,7 +10,7 @@ Recibe los alimentos y los transforma en sustancias más sencillas que pueden pa
 > **Recuerda**  
 > Las **glándulas** son órganos que producen ciertas sustancias y las vierten, bien a la sangre o bien a otro lugar. Por ejemplo, las glándulas sudoríparas producen el sudor y lo vierten a la superficie de la piel. Las glándulas salivales producen la saliva y la vierten a la boca.
 
-![digestive-anatomy.png](digestive-anatomy.png "Anatomía del aparato digestivo")
+![digestive-anatomy.png](../img/digestive-anatomy.png "Anatomía del aparato digestivo")
 
 ## Función
 
