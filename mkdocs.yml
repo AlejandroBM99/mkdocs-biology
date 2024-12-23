@@ -2,6 +2,7 @@ site_name: Biología
 site_url: https://github.com/AlejandroBM99/mkdocs-biology
 theme:
   name: material
+  custom_dir: overrides
   language: es
   features:
     - navigation.tabs
@@ -28,6 +29,8 @@ extra:
       link: https://github.com/AlejandroBM99/mkdocs-biology
     - icon: material/web-box
       link: https://alejandrobm99.github.io/mkdocs-biology/
+    - icon: custom/mm_logo
+      link: https://www.msdmanuals.com/es/hogar/health-topics
   navigation:
     title: Menú Principal
 extra_css:
@@ -47,7 +50,12 @@ markdown_extensions:
           format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.arithmatex:
       generic: true
-
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+      options:
+        custom_icons:
+          - overrides/.icons
 nav:
   - Inicio: index.md
   - La Célula:
@@ -62,7 +70,7 @@ nav:
           - Aparato respiratorio: system/respiratory.md
           - Aparato locomotor: system/locomotor.md
           - Aparato circulatorio: system/circulatory.md
-          - Aparato excretor: system/excretor.md
+          - Aparato excretor: system/excretory.md
           - Aparato reproductor: system/reproductive.md
           - Sistema endocrino: system/endocrine.md
           - Sistema nervioso: system/nervous.md
