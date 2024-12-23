@@ -12,6 +12,8 @@
 * **Labios menores.** Repliegues de piel fina y sensible que cubren la abertura de la vagina.
 * **Labios mayores.** Repliegues de piel que cubren los labios menores y el clítoris.
 
+![feminine-reproductive-anatomy.png](../img/feminine-reproductive-anatomy.png)
+
 ### Ciclo menstrual
 
 En la mujer cada mes se repite un ciclo cuyo objetivo es preparar su cuerpo para un posible embarazo. A lo largo de este ciclo el tejido del interior del útero, que se llama **endometrio**, va engrosando, para permitir el desarrollo del nuevo ser. Hacia la mitad del ciclo se produce la **ovulación**, que es la salida del óvulo del ovario. Si el óvulo no es fecundado antes de 24 horas, muere. En ese caso se expulsa el óvulo junto con el tejido del endometrio que se había formado. Esto causa una pequeña hemorragia, la **menstruación**. Este ciclo se repite cada 28 días, aproximadamente, desde la pubertad hasta la **menopausia** y está controlado por diversas hormonas.
@@ -19,8 +21,16 @@ En la mujer cada mes se repite un ciclo cuyo objetivo es preparar su cuerpo para
 > **Conoce el significado**
 > Menopausia procede del griego _men_ (mes) y _pausis_ (pausa).
 
-![feminine-reproductive-anatomy-1.png](../img/feminine-reproductive-anatomy-1.png)
-![feminine-reproductive-anatomy-2.png](../img/feminine-reproductive-anatomy-2.png)
-
 ## Aparato reproductor masculino
 
+### Anatomía
+
+* **Testículos.** Son los órganos que producen los **[espermatozoides](../cell/cell.md#células-reproductoras-o-gametos)**.
+* **Escroto.** Es una bolsa formada por piel que contiene a los testículos.
+* **Pene.** Es un órgano cilíndrico cuyo extremo, el **glande**, está cubierto por un pliegue de piel llamado **prepucio**.
+* **Conductos deferentes.** Son unos conductos por los que los espermatozoides salen de los testículos.
+* **Vesículas seminales.** Son unas glándulas que producen un líquido en el que viajan los espermatozoides.
+* **Próstata.** Es una glándula que segrega sustancias que protegen a los espermatozoides.
+* **Uretra.** Es el conducto en el que desembocan los conductos deferentes. Por ella se expulsan los espermatozoides y la orina.
+
+![masculine-reproductive-anatomy.png](../img/masculine-reproductive-anatomy.png)

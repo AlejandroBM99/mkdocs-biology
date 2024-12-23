@@ -30,4 +30,7 @@ Explora los fascinantes aspectos de la biología organizados en las siguientes s
     - [Infecciosas](disease/infection.md)
     - [No infecciosas](disease/non-infection.md)
 
+## Recursos
+- [Biología y Geología 3º ESO - Editorial Santillana](resources/3eso-avanza.pdf)
+
 ---
