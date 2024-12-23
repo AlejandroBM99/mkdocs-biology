@@ -35,7 +35,7 @@ extra_css:
 extra_javascript:
   - js/popup.js
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
-  - https://unpkg.com/mermaid@10/dist/mermaid.min.js
+  - mermaid:javascript
 plugins:
   - search
   - mermaid2:
@@ -61,6 +61,11 @@ nav:
           - Aparato digestivo: system/digestive.md
           - Aparato respiratorio: system/respiratory.md
           - Aparato locomotor: system/locomotor.md
+          - Aparato circulatorio: system/circulatory.md
+          - Aparato excretor: system/excretor.md
+          - Aparato reproductor: system/reproductive.md
+          - Sistema endocrino: system/endocrine.md
+          - Sistema nervioso: system/nervous.md
       - Sistemas:
           - Sistema esquelético: system/skeleton.md
           - Sistema muscular: system/muscular.md

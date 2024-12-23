@@ -6,10 +6,11 @@ Explora los fascinantes aspectos de la biología organizados en las siguientes s
 - **[Introducción](cell/cell.md):** Aprende sobre la unidad básica de la vida.
 - **[Tejidos](cell/tissue.md):** Conoce los tejidos que forman los organismos multicelulares.
 - **Tipos de células:**
-    - [Células sanguíneas](cell/cell.md#células-sanguíneas): Descubre las diversas funciones de las células sanguíneas.
+    - [Células sanguíneas](cell/cell.md#células-sanguíneas)
+    - [Células del sistema nervioso](cell/cell.md#células-del-sistema-nervioso)
 
 ## ⚙️ Sistemas, aparatos y sentidos
-- **[Introducción](organization/system.md):** Una visión general de los sistemas del cuerpo humano.
+- **[Introducción](organization/system.md)**
 - **Sistemas**:
     - [**Sistema esquelético**](system/skeleton.md)
     - [**Sistema muscular**](system/muscular.md)
@@ -17,11 +18,16 @@ Explora los fascinantes aspectos de la biología organizados en las siguientes s
     - **[Aparato digestivo](system/digestive.md)**
     - **[Aparato respiratorio](system/respiratory.md)**
     - **[Aparato locomotor](system/locomotor.md)**
+    - **[Aparato excretor](system/excretory.md)**
+    - **[Aparato reproductor](system/reproductive.md)** 
+    - **[Aparato circulatorio](system/circulatory.md)**
+    - **[Sistema endocrino](system/endocrine.md)**
+    - **[Sistema nervioso](system/nervous.md)**
 
 ## 🩺 Enfermedades
-- **[Introducción](disease/disease.md):** ¿Qué son las enfermedades y cómo nos afectan?
+- **[Introducción](disease/disease.md)**
 - **[Tipos de contagio](disease/infection.md):**
-    - [Infecciosas](disease/infection.md): Enfermedades causadas por microorganismos.
-    - [No infecciosas](disease/non-infection.md): Enfermedades causadas por factores no infecciosos.
+    - [Infecciosas](disease/infection.md)
+    - [No infecciosas](disease/non-infection.md)
 
 ---

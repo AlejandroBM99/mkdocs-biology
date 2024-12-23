@@ -26,7 +26,7 @@ La célula tiene varias partes esenciales, cada una con una función específica
 * **Centriolos.** Son dos estructuras formadas por proteínas. Tienen aspecto de tubo y se sitúan cerca del núcleo. Intervienen en la división celular, permitiendo el reparto de los cromosomas entre las células hijas.
 * **Lisosomas.** Realizan la digestión de sustancias en el interior de la célula. Degradan las moléculas complejas en sustancias más sencillas.
 
-![cell.png](cell.png "Célula")
+![cell.png](../img/cell.png "Célula")
 *Principales orgánulos celulares.*
 
 ## Células sanguíneas
@@ -40,7 +40,7 @@ La célula tiene varias partes esenciales, cada una con una función específica
 > **Dato curioso**  
 > Los eritrocitos son 1000 veces más frecuentes en la sangre que los leucocitos.
 
-![hematopoiesis.jpg](hematopoiesis.jpg "Hematopoyesis")
+![hematopoiesis.jpg](../img/hematopoiesis.jpg "Hematopoyesis")
 *Hematopoyesis o hemopoyesis o proceso de formación, desarrollo y maduración de las células sanguíneas.*
 
 ## Células del sistema nervioso
@@ -53,5 +53,13 @@ La célula tiene varias partes esenciales, cada una con una función específica
 * **Células de glía.** Se encuentran entre las neuronas. Hay diferentes tipos, con diferentes funciones, como aportar nutrientes o protección a las neuronas, o retirada de deshechos.
 
 ![neuron.png](../img/neuron.png)
+
+## Células reproductoras o gametos
+
+* **Óvulos.** Es una célula muy grande con forma esférica. Se producen en los [ovarios](../system/reproductive.md#aparato-reproductor-femenino), dentro de unas cápsulas llamadas **folículos de Graaf**. Cada 28 días, aproximadamente, uno de estos folículos madura, se abre y expulsa un óvulo, que pasa a las trompas de Falopio y se dirige hacia el útero.
+* **Espermatozoides.** 
+
+![ovary.png](../img/ovary.png)
+*Óvulo.*
 
 ---
