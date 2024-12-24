@@ -59,7 +59,7 @@ La célula tiene varias partes esenciales, cada una con una función específica
 ## Células reproductoras o gametos
 
 * **Óvulos.** Es una célula muy grande con forma esférica. Se producen en los [ovarios](../system/reproductive.md#aparato-reproductor-femenino), dentro de unas cápsulas llamadas **folículos de Graaf**. Cada 28 días, aproximadamente, uno de estos folículos madura, se abre y expulsa un óvulo, que pasa a las trompas de Falopio y se dirige hacia el útero.
-* **Espermatozoides.** 
+* **Espermatozoides.** Es una célula pequeña con una larga **cola** que le permite desplazarse y una **cabeza** que contiene el núcleo. Se producen continuamente desde la pubertad. Los espermatozoides salen del cuerpo a través de la uretra en un proceso denominado **eyaculación**. Con la eyaculación se expulsa al exterior el **semen**, que contiene los espermatozoides y los líquidos segregados por las vesículas seminales y la próstata.
 
 ![ovary.png](../img/ovary.png)
 *Óvulo.*

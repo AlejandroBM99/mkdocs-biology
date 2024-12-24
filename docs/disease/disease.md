@@ -72,6 +72,9 @@ Las enfermedades que afectan al corazón y los vasos sanguíneos el nombre de **
 
 ## Enfermedades del aparato reproductor
 
-
+* **Sida.** Está causada por el virus **VIH**, que destruye las defensas del organismo. El enfermo desarrolla diversas infecciones y tumores que le pueden causar la muerte. No se cura totalmente, pero existen medicamentos que permiten controlar la enfermedad y se persigue crear una vacuna efectiva.
+* **Hepatitis B.** Está causada por un virus. Si no es tratada, produce lesiones graves en el hígado.
+* **Sífilis.** Enfermedad causada por una bacteria llamada _Treponema pallidum_. Produce lesiones graves en el aparato circulatorio y el sistema nervioso. Estas últimas pueden llevar a la demencia.
+* **Gonorrea.** Enfermedad causada por una bacteria llamada _Neisseria gonorrhoeae_. Puede provocar esterilidad.
 
 ---

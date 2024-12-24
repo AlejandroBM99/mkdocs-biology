@@ -34,3 +34,25 @@ En la mujer cada mes se repite un ciclo cuyo objetivo es preparar su cuerpo para
 * **Uretra.** Es el conducto en el que desembocan los conductos deferentes. Por ella se expulsan los espermatozoides y la orina.
 
 ![masculine-reproductive-anatomy.png](../img/masculine-reproductive-anatomy.png)
+
+## Fecundación
+
+Durante el acto sexual o coito, al producirse la eyaculación, el semen se deposita en la vagina y los espermatozoides viajan hasta la **trompa de Falopio**. Si en la trompa se encuentra un óvulo, los espermatozoides lo rodean y se pegan a él. Solo uno de ellos atraviesa las cubiertas que rodean al óvulo e introduce la cabeza en su interior. El material genético del óvulo y el del espermatozoide se fusionan. De este modo se forma el **cigoto** o célula huevo. Los espermatozoides sobreviven hasta cinco días en el interior del aparato reproductor femenino.
+
+## Desarrollo del embarazo
+
+Con la fecundación da comienzo el embarazo, que dura unas
+cuarenta semanas y finaliza en el momento del parto. Durante el embarazo se interrumpe el ciclo menstrual, es decir, la mujer no tiene la menstruación ni se producen nuevos óvulos. El cigoto, que se forma en la trompa de Falopio, se divide varias veces hasta formar una masa de células que llega hasta el útero y se pega a su pared. Esta masa de células es el **embrión**. Junto al embrión se crean tres importantes estructuras que permiten su crecimiento y supervivencia:
+
+* **Bolsa amniótica.** Es un saco lleno de líquido en el que crece el embrión.
+* **Placenta.** Es un órgano que se forma en la pared del útero. Su función es unir el embrión a la madre, para que esta pueda nutrirle mientras está en su interior.
+* **Cordón umbilical.** Es un tubo que está recorrido por varios vasos sanguíneos. Su función es transportar oxígeno y nutrientes de la placenta al embrión y sustancias de desecho del embrión a la placenta.
+
+El embrión continúa aumentando el número de células y va creciendo y transformándose. A partir de la octava semana, cuando ya tiene el aspecto de un ser humano y se reconocen en él todos los
+órganos, se le llama **feto**.
+
+![pregnancy.png](../img/pregnancy.png)
+
+| **1. Fase de dilatación.** El cuello del útero aumenta su diámetro, los músculos del útero se contraen periódicamente y se abre la bolsa amniótica, lo que se llama «romper aguas». | **2. Fase de expulsión.** El feto sale por la vagina empujado por las contracciones del útero y por la fuerza que hace la madre. Primero suele aparecer la cabeza y luego el resto del cuerpo. | **3. Fase de alumbramiento.** Unos minutos después de salir el bebé, tras cortar el cordón umbilical y atarlo, se expulsan la placenta y restos del endometrio. |
+|----------------------------|----------------------------|----------------------------|
+| ![Fase 1](../img/birth-1.png) | ![Fase 2](../img/birth-2.png) | ![Fase 3](../img/birth-3.png) |
