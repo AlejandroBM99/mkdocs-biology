@@ -77,4 +77,9 @@ Las enfermedades que afectan al corazón y los vasos sanguíneos el nombre de **
 * **Sífilis.** Enfermedad causada por una bacteria llamada _Treponema pallidum_. Produce lesiones graves en el aparato circulatorio y el sistema nervioso. Estas últimas pueden llevar a la demencia.
 * **Gonorrea.** Enfermedad causada por una bacteria llamada _Neisseria gonorrhoeae_. Puede provocar esterilidad.
 
+## Enfermedades generales
+
+* **Cáncer.** Un crecimiento descontrolado de células puede generar un **tumor**, que será **benigno** en caso de no afectar a ningún otro órgano y no suponer un mal para el paciente. En caso de que invada tejidos próximos se llama **cáncer**, y si se traslada a otros órganos se produce **metástasis**.
+
+
 ---

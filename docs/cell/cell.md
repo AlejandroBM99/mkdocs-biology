@@ -57,11 +57,11 @@ Son más complejas que las procariotas, y generalmente más grandes. Es el tipo 
 ### Orgánulos
 
 * **Mitocondrias.** Es un orgánulo ovalado con una doble membrana. La externa es lisa y la interna está replegada hacia el interior formando las crestas mitocondriales. En ella, mediante el proceso de **respiración celular**, se obtiene la mayor parte de la energía de la célula.
-* **Vesículas.** Son sacos membranosos de pequeño tamaño que almacenan, transportan o digieren distintas sustancias celulares. Los **lisosomas** son vesículas membranosas redondeadas, que se forman en el aparato de Golgi, y contienen enzimas hidrolíticas que participan en la digestión intracelular de sustancias.
 * **Retículo endoplasmático o R. E.** Es un conjunto de sáculos y canales membranosos interconectados entre sí. Puede ser de dos tipos:
     * **R. E. Rugoso.** Está conectado con la envoltura nuclear y lleva asociados ribosomas. Participa en la síntesis y el transporte de proteínas hacia el aparato de Golgi.
     * **R. E. Liso.** No lleva ribosomas asociados y en él se produce la síntesis de los lípidos.
 * **Aparato de Golgi.** Es un conjunto de sacos membranosos aplanados y apilados conectados entre sí. En ellos se almacenan y procesan sustancias transferidas desde el retículo. Del aparato de Golgi se emiten **vesículas de secreción** que contienen productos que se vierten al exterior.
+* **Vesículas.** Son sacos membranosos de pequeño tamaño que almacenan, transportan o digieren distintas sustancias celulares. Los **lisosomas** son vesículas membranosas redondeadas, que se forman en el aparato de Golgi, y contienen enzimas hidrolíticas que participan en la digestión intracelular de sustancias.
 * **Ribosomas.** Son partículas no membranosas formadas por ARN y proteínas. Pueden estar libres en el citoplasma o adheridos al R. E. rugoso. Realizan la **síntesis de proteínas**.
 * **Centrosoma.** Está constituido por dos cilindros formados por microtúbulos proteicos llamados **centriolos**. Ambos se disponen de forma perpendicular y están rodeados de otros microtúbulos que forman el **áster**. Participan en la organización del citoesqueleto, la motilidad celular y la formación del huso mitótico cuando la célula se va a dividir
 * **Cilios y flagelos.** Son prolongaciones citoplasmáticas que intervienen en el movimiento celular. Tienen una estructura interna similar, pero los cilios son cortos y abundantes, y los flagelos son largos y una célula suele presentar uno o dos.
