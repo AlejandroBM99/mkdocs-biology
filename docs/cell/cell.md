@@ -5,33 +5,66 @@ La célula es la unidad más pequeña de la vida, ya que realiza las tres funcio
 > **Dato curioso**  
 > Nuestro cuerpo alberga aproximadamente **100 billones** de células y más de **250 tipos diferentes**.
 
-## Estructura
+![cell.png](../img/cell.png "Célula")
+*Principales orgánulos celulares.*
 
-La célula tiene varias partes esenciales, cada una con una función específica:
+## Catabolismo y anabolismo
 
-* **Membrana plasmática.** Fina capa que envuelve a la célula. A través de ella salen y entran sustancias o desechos.
-* **Citoplasma.** Líquido viscoso que ocupa el interior de la célula. En él se encuentran flotando los orgánulos.
-* **Núcleo.** Al ser eucariota, nuestras células tienen un núcleo delimitado por una envoltura, de forma esférica. Dentro de él está el material genético que controla el funcionamiento de la célula.
-  * ccc
-  * ccc
-  * **Cromatina.** Formada por fibras de ADN que constituyen el material genético de la célula, cuando la célula se prepara para dividirse, la cromatina se condensa y forma estructuras llamadas **cromosomas**.
+Estos términos pertenecen a la función de nutrición de la célula, e indican la finalidad y el tipo de reacción que se produce en el **metabolismo celular**: el conjunto de procesos químicos que experimentan los nutrientes dentro de la célula.
+
+* **Catabolismo.** Transformación de sustancias orgánicas complejas, ricas en energía, en compuestos más pequeños y simples. En el catabolismo se obtiene energía, que es utilizada por la célula para sintetizar nuevas moléculas, para la reproducción o para el propio funcionamiento celular.
+* **Anabolismo.** Reacciones de tipo constructivo. Comprende los procesos que convierten las sustancias pequeñas y sencillas en sustancias orgánicas complejas propias de la célula, que utiliza para crecer y para reponer estructuras dañadas o perdidas. Para llevar a cabo estos procesos es necesario utilizar energía.
+
+## Célula procariota
+
+Son las células más simples, de organismos unicelulares, como por ejemplo las **bacterias**, que pertenecen al reino Moneras. Las principales características de las células procariotas son:
+
+* **Carecen de núcleo,** su material genético está disperso en el interior del **citoplasma**.
+* **Tienen ribosomas,** pero no poseen ningún otro orgánulo.
+* La membrana plasmática está cubierta por una **pared celular**.
+
+Estas células se componen de:
+
+* **Membrana plasmática.** Fina capa que envuelve a la célula y delimita el citoplasma. A través de ella se produce el intercambio de sustancias.
+* **Pared celular.** Envoltura rígida y gruesa que se sitúa por encima de la membrana. Protege y da forma a la bacteria.
+* **Cápsula bacteriana.** Cubierta externa gruesa que no presentan todas las bacterias. Sirve para adherirse y protegerse.
+* **Cromosoma bacteriano.** El material genético es una molécula circular de ADN dispuesta en una región llamada **nucleoide**.
+* **Ribosomas.** Partículas que realizan la síntesis de proteínas.
+* **Apéndices.** Pueden ser estructuras como los **flagelos**, que intervienen en el movimiento, y las **fimbrias**, más cortas y numerosas, que ayudan a la bacteria a fijarse a un sustrato.
+
+## Célula eucariota
+
+Son más complejas que las procariotas, y generalmente más grandes. Es el tipo de célula que tienen los seres humanos. En ella se distinguen tres estructuras:
+
+* **Membrana plasmática.** Es la estructura que delimita la célula y permite el intercambio de sustancias con el exterior. Está formada por una doble capa de fosfolípidos en la que se intercalan moléculas de colesterol y diferentes tipos de proteínas. Este modelo de membrana se denomina de **mosaico fluido** porque los elementos que la constituyen se mueven y cambian de posición.
+* **Citoplasma.** Es el espacio de la célula comprendido entre la membrana y el núcleo. En él se encuentra:
+    * **Citosol.** Es el medio fluido interno.
+    * **Orgánulos.** Estructuras que cumplen distintas funciones.
+    * **Citoesqueleto.** Formado por fibras proteicas que intervienen en el movimiento, la organización interna y la división celular.
+* **Núcleo.** Es una estructura esférica en cuyo interior se encuentra el material genético que controla el funcionamiento celular. Está rodea da de una doble membrana denominada **envoltura nuclear**, que tiene multitud de **poros** que permiten el intercambio de sustancias con el resto de la célula. En el núcleo se encuentran:
+    * **Nucleoplasma.** Estructura que se observa como una masa esférica y densa formada por ARN y proteínas. Solo es visible cuando la célula no se está dividiendo. En una célula puede haber uno o varios nucleolos.****
+    * **Nucleolo.** Medio fluido del interior del núcleo.
+    * **Cromatina.** Conjunto de fibras de ADN unidas a proteínas que constituyen el material genético de la célula. Al condensarse en la división celular forman los **cromosomas**.
 
 > **Dato curioso**  
 > Los cromosomas humanos están organizados en **23 pares**, sumando un total de **46 cromosomas** en la mayoría de nuestras células.
 
-## Orgánulos
+### Orgánulos
 
-* **Ribosomas.** Se encargan de fabricar las proteínas.
-* **Retículo endoplasmático.** En él se almacenan y transportan las proteínas fabricadas por los ribosomas.
-* **Aparato de Golgi.** Dirige el tráfico de sustancias en el interior de la célula. En sus cisternas se almacenan las sustancias que provienen del retículo endoplasmático. Para poder expulsar esas sustancias al exterior se empaquetan dentro de **vesículas**.
-* **Mitocondrias.** Son las «centrales energéticas» de la célula. En ellas se realiza la **respiración celular**.
-* **Centriolos.** Son dos estructuras formadas por proteínas. Tienen aspecto de tubo y se sitúan cerca del núcleo. Intervienen en la división celular, permitiendo el reparto de los cromosomas entre las células hijas.
-* **Lisosomas.** Realizan la digestión de sustancias en el interior de la célula. Degradan las moléculas complejas en sustancias más sencillas.
+* **Mitocondrias.** Es un orgánulo ovalado con una doble membrana. La externa es lisa y la interna está replegada hacia el interior formando las crestas mitocondriales. En ella, mediante el proceso de **respiración celular**, se obtiene la mayor parte de la energía de la célula.
+* **Vesículas.** Son sacos membranosos de pequeño tamaño que almacenan, transportan o digieren distintas sustancias celulares. Los **lisosomas** son vesículas membranosas redondeadas, que se forman en el aparato de Golgi, y contienen enzimas hidrolíticas que participan en la digestión intracelular de sustancias.
+* **Retículo endoplasmático o R. E.** Es un conjunto de sáculos y canales membranosos interconectados entre sí. Puede ser de dos tipos:
+    * **R. E. Rugoso.** Está conectado con la envoltura nuclear y lleva asociados ribosomas. Participa en la síntesis y el transporte de proteínas hacia el aparato de Golgi.
+    * **R. E. Liso.** No lleva ribosomas asociados y en él se produce la síntesis de los lípidos.
+* **Aparato de Golgi.** Es un conjunto de sacos membranosos aplanados y apilados conectados entre sí. En ellos se almacenan y procesan sustancias transferidas desde el retículo. Del aparato de Golgi se emiten **vesículas de secreción** que contienen productos que se vierten al exterior
+* **Ribosomas.** Son partículas no membranosas formadas por ARN y proteínas. Pueden estar libres en el citoplasma o adheridos al R. E. rugoso. Realizan la **síntesis de proteínas**.
+* **Centrosoma.** Está constituido por dos cilindros formados por microtúbulos proteicos llamados **centriolos**. Ambos se disponen de forma perpendicular y están rodeados de otros microtúbulos que forman el **áster**. Participan en la organización del citoesqueleto, la motilidad celular y la formación del huso mitótico cuando la célula se va a dividir
+* **Cilios y flagelos.** Son prolongaciones citoplasmáticas que intervienen en el movimiento celular. Tienen una estructura interna similar, pero los cilios son cortos y abundantes, y los flagelos son largos y una célula suele presentar uno o dos.
+* **Citoesqueleto.** Está formado por un conjunto de filamentos proteicos de distinto tipo. Su función es mantener la forma celular, facilitar el movimiento de la célula, de los orgánulos y de las vesículas internas. También participa en la organización de los cromosomas durante la división celular.
 
-![cell.png](../img/cell.png "Célula")
-*Principales orgánulos celulares.*
+## Células especializadas
 
-## Células sanguíneas
+### Células sanguíneas
 
 * **Glóbulos rojos o eritrocitos o hematíes.** Células más abundantes en la sangre. Son pequeñas y sun función es transportar oxígeno y dióxido de carbono.
 
@@ -45,7 +78,7 @@ La célula tiene varias partes esenciales, cada una con una función específica
 ![hematopoiesis.jpg](../img/hematopoiesis.jpg "Hematopoyesis")
 *Hematopoyesis o hemopoyesis o proceso de formación, desarrollo y maduración de las células sanguíneas.*
 
-## Células del sistema nervioso
+### Células del sistema nervioso
 
 * **Neuronas.** Están especializadas en recibir y transmitir información mediante impulsos nerviosos. Tienen un cuerpo celular en el que se encuentra el núcleo, y dos tipos de prolongaciones:
     * **Dendritas.** Prolongaciones muy ramificadas. Reciben y transmiten los impulsos al cuerpo celular.
@@ -56,12 +89,13 @@ La célula tiene varias partes esenciales, cada una con una función específica
 
 ![neuron.png](../img/neuron.png)
 
-## Células reproductoras o gametos
+### Células reproductoras o gametos
 
 * **Óvulos.** Es una célula muy grande con forma esférica. Se producen en los [ovarios](../system/reproductive.md#aparato-reproductor-femenino), dentro de unas cápsulas llamadas **folículos de Graaf**. Cada 28 días, aproximadamente, uno de estos folículos madura, se abre y expulsa un óvulo, que pasa a las trompas de Falopio y se dirige hacia el útero.
 * **Espermatozoides.** Es una célula pequeña con una larga **cola** que le permite desplazarse y una **cabeza** que contiene el núcleo. Se producen continuamente desde la pubertad. Los espermatozoides salen del cuerpo a través de la uretra en un proceso denominado **eyaculación**. Con la eyaculación se expulsa al exterior el **semen**, que contiene los espermatozoides y los líquidos segregados por las vesículas seminales y la próstata.
 
-![ovary.png](../img/ovary.png)
-*Óvulo.*
+|           **Óvulo**            |          **Espermatozoide**           |
+|:------------------------------:|:-------------------------------------:|
+| ![ovary.png](../img/ovary.png) | ![spermatozoon.png](../img/spermatozoon.png) |
 
 ---
