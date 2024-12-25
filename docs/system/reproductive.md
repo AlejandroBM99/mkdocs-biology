@@ -18,7 +18,7 @@
 
 En la mujer cada mes se repite un ciclo cuyo objetivo es preparar su cuerpo para un posible embarazo. A lo largo de este ciclo el tejido del interior del útero, que se llama **endometrio**, va engrosando, para permitir el desarrollo del nuevo ser. Hacia la mitad del ciclo se produce la **ovulación**, que es la salida del óvulo del ovario. Si el óvulo no es fecundado antes de 24 horas, muere. En ese caso se expulsa el óvulo junto con el tejido del endometrio que se había formado. Esto causa una pequeña hemorragia, la **menstruación**. Este ciclo se repite cada 28 días, aproximadamente, desde la pubertad hasta la **menopausia** y está controlado por diversas hormonas.
 
-> **Conoce el significado**
+> **Conoce el significado**  
 > Menopausia procede del griego _men_ (mes) y _pausis_ (pausa).
 
 ## Aparato reproductor masculino

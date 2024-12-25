@@ -3,6 +3,8 @@ site_url: https://github.com/AlejandroBM99/mkdocs-biology
 theme:
   name: material
   custom_dir: overrides
+  icon:
+    annotation: material/plus-circle
   language: es
   features:
     - navigation.tabs
@@ -10,6 +12,7 @@ theme:
     - toc.integrate
     - content.code.annotate
     - search.highlight
+    - content.tooltips
   palette:
     - scheme: default
       primary: lime
@@ -35,14 +38,20 @@ extra:
     title: Menú Principal
 extra_css:
   - css/custom.css
+  - css/hint.min.css
 extra_javascript:
   - js/popup.js
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
   - mermaid:javascript
 plugins:
   - search
-  - mermaid2:
+  - tooltips
+  - mermaid2
 markdown_extensions:
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.details
   - pymdownx.superfences:
       custom_fences:
         - name: mermaid
@@ -58,6 +67,7 @@ markdown_extensions:
           - overrides/.icons
 nav:
   - Inicio: index.md
+  - Biomoléculas: organization/biomolecule.md
   - La Célula:
       - Introducción: cell/cell.md
       - Tejidos: cell/tissue.md

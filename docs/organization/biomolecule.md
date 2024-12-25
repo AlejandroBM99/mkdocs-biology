@@ -9,10 +9,13 @@ Las biomoléculas son moléculas formadas por bioelementos. Se dividen en biomol
 
 ## Biomoléculas orgánicas
 
-* **Glúcidos, carbohidratos o hidratos de carbono.** Son moléculas formadas por **monosacáridos**, como la **glucosa**. La unión de dos monosacáridos forma un **disacárido**, como la **sacarosa** o la **maltosa**. La unión de varios monosacáridos forma los **polisacáridos**, como el **glucógeno** o la **celulosa**.
-*  **Lípidos.** Son moléculas de naturaleza química muy variada. Entre ellos se encuentran las **grasas**, los **fosfolípidos** y el **colesterol**. Las grasas son los lípidos más simples y se pueden descomponer en **ácidos grasos** y en un alcohol, el **glicerol**.
-* **Proteínas.** Son macromoléculas constituidas por la unión de muchas moléculas denominadas **aminoácidos**. Algunas proteínas importantes del ser humano son el **colágeno**, la **hemoglobina** o los **anticuerpos**. 
+<div class="annotate" markdown>
+* **Glúcidos, carbohidratos o hidratos de carbono.** Son moléculas formadas por **monosacáridos** (1), como la **glucosa**. La unión de dos monosacáridos forma un **disacárido**, como la **sacarosa** o la **maltosa**. La unión de varios monosacáridos forma los **polisacáridos**, como el **glucógeno** o la **celulosa**.
+* **Lípidos.** Son moléculas de naturaleza química muy variada. Entre ellos se encuentran las **grasas**, los **fosfolípidos** y el **colesterol**. Las grasas son los lípidos más simples y se pueden descomponer en **ácidos grasos** y en un alcohol, el **glicerol**.
+* **Proteínas.** Son macromoléculas constituidas por la unión de muchas moléculas denominadas **aminoácidos**. Algunas proteínas importantes del ser humano son el **colágeno**, la **hemoglobina** o los **anticuerpos**.
 * **Ácidos nucleicos.** Son grandes biomoléculas formadas por la unión de otras más pequeñas llamadas **nucleótidos**. Hay dos tipos: el **ADN** o **ácido desoxirribonucleico** y el **ARN** o **ácido ribonucleico**.
+</div>
 
-> **Atención**  
-> Los **monosacáridos**, también llamados **azúcares simples**, son las formas más simples de azúcar, y las unidades más básicas (monómeros) a partir de las cuales se construyen todos los glúcidos.
+1.  También llamados **azúcares simples**, son las formas más simples de azúcar, y las unidades más básicas (monómeros) a partir de las cuales se construyen todos los glúcidos.
+
+---
