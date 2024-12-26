@@ -2,6 +2,9 @@ site_name: Biología
 site_url: https://github.com/AlejandroBM99/mkdocs-biology
 theme:
   name: material
+  custom_dir: overrides
+  icon:
+    annotation: material/plus-circle
   language: es
   features:
     - navigation.tabs
@@ -9,6 +12,7 @@ theme:
     - toc.integrate
     - content.code.annotate
     - search.highlight
+    - content.tooltips
   palette:
     - scheme: default
       primary: lime
@@ -28,27 +32,45 @@ extra:
       link: https://github.com/AlejandroBM99/mkdocs-biology
     - icon: material/web-box
       link: https://alejandrobm99.github.io/mkdocs-biology/
+    - icon: custom/mm_logo
+      link: https://www.msdmanuals.com/es/hogar/health-topics
   navigation:
     title: Menú Principal
 extra_css:
   - css/custom.css
+  - css/hint.min.css
 extra_javascript:
   - js/popup.js
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  - mermaid:javascript
 plugins:
   - search
+  - tooltips
   - mermaid2
 markdown_extensions:
-  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.arithmatex:
       generic: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+      options:
+        custom_icons:
+          - overrides/.icons
 nav:
   - Inicio: index.md
+  - Biomoléculas: organization/biomolecule.md
   - La Célula:
       - Introducción: cell/cell.md
       - Tejidos: cell/tissue.md
-      - Tipos de células:
-          - Sanguíneas: cell/blood-cell.md
   - Sistemas y aparatos:
       - Introducción: organization/system.md
       - Los cinco sentidos: organization/sense.md
@@ -57,6 +79,11 @@ nav:
           - Aparato digestivo: system/digestive.md
           - Aparato respiratorio: system/respiratory.md
           - Aparato locomotor: system/locomotor.md
+          - Aparato circulatorio: system/circulatory.md
+          - Aparato excretor: system/excretory.md
+          - Aparato reproductor: system/reproductive.md
+          - Sistema endocrino: system/endocrine.md
+          - Sistema nervioso: system/nervous.md
       - Sistemas:
           - Sistema esquelético: system/skeleton.md
           - Sistema muscular: system/muscular.md

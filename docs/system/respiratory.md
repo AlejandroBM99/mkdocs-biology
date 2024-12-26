@@ -13,7 +13,7 @@ El aparato respiratorio se encarga de tomar el oxígeno del aire, cederlo a la s
 * **Pulmones.** Órganos donde se produce el **intercambio gaseoso**, es decir, el oxígeno pasa del aire a la sangre y el dióxido de carbono pasa de la sangre al aire.
 * **Vías respiratorias.** Conductos por los que el aire entra y sale de los pulmones. Son las fosas nasales, la faringe, la laringe, la tráquea, los bronquios y los bronquiolos.
 
-![respiratory-anatomy.png](respiratory-anatomy.png "Aparato respiratorio")
+![respiratory-anatomy.png](../img/respiratory-anatomy.png "Aparato respiratorio")
 
 ## Función
 
