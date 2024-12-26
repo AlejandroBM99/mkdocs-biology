@@ -27,13 +27,11 @@ Estas células se componen de:
 
 * **Membrana plasmática.** Fina capa que envuelve a la célula y delimita el citoplasma. A través de ella se produce el intercambio de sustancias.
 ![prokaryote.png](../img/prokaryote.png){align=right}
-* **Pared celular.** Envoltura rígida y gruesa que se sitúa por encima de la membrana. Protege y da forma a la bacteria.
+* **Pared bacteriana.** Envoltura rígida y gruesa, formada por [polisacáridos](../organization/biomolecule.md#biomoléculas-orgánicas), que se sitúa por encima de la membrana. Protege y da forma a la bacteria. 
 * **Cápsula bacteriana.** Cubierta externa gruesa que no presentan todas las bacterias. Sirve para adherirse y protegerse. [:material-information-outline:{ title="Información adicional" }](https://bateriascea.com.ar/capsula-de-las-baterias-procariotas/){ : target="_blank" }
 * **Cromosoma bacteriano.** El material genético es una molécula circular de ADN dispuesta en una región llamada **nucleoide**.
 * **Ribosomas.** Partículas que realizan la síntesis de proteínas.
 * **Apéndices.** Pueden ser estructuras como los **flagelos**, que intervienen en el movimiento, y las **fimbrias**, más cortas y numerosas, que ayudan a la bacteria a fijarse a un sustrato.
-
-
 
 ## Célula eucariota
 
@@ -45,14 +43,17 @@ Son más complejas que las procariotas, y generalmente más grandes. Es el tipo 
     * **Citosol.** Es el medio fluido interno.
     * **Orgánulos.** Estructuras que cumplen distintas funciones.
     * **Citoesqueleto.** Formado por fibras proteicas que intervienen en el movimiento, la organización interna y la división celular.
-* **Núcleo.** Es una estructura esférica en cuyo interior se encuentra el material genético que controla el funcionamiento celular. Está rodea da de una doble membrana denominada **envoltura nuclear**, que tiene multitud de **poros** que permiten el intercambio de sustancias con el resto de la célula. En el núcleo se encuentran:
+* * **Centrosoma.** Está constituido por dos cilindros formados por microtúbulos proteicos llamados **centriolos**. Ambos se disponen de forma perpendicular y están rodeados de otros microtúbulos que forman el **áster**. Participan en la organización de las fibras del citoesqueleto, la motilidad (3) celular y la formación del huso mitótico (4) cuando la célula se va a dividir
+* **Núcleo.** Es una estructura esférica en cuyo interior se encuentra el material genético que controla el funcionamiento celular. Está rodea da de una doble membrana, denominada **envoltura nuclear**, que tiene multitud de **poros** que permiten el intercambio de sustancias con el resto de la célula. En el núcleo se encuentran:
     * **Nucleoplasma.** Estructura que se observa como una masa esférica y densa formada por ARN y proteínas. Solo es visible cuando la célula no se está dividiendo. En una célula puede haber uno o varios nucleolos.
     * **Nucleolo.** Medio fluido del interior del núcleo.
     * **Cromatina.** Conjunto de fibras de ADN unidas a proteínas que constituyen el material genético de la célula. Al condensarse en la división celular forman los **cromosomas**(2).
 </div>
 
-1. Tipo especial de lípidos que están formados por una **cabeza hidrofílica** y unas **colas hidrofóbicas**. Al agruparse en las membranas, las cabezas se orientan hacia los exteriores (dentro y fuera de la célula) y las cosas hacia el interior, formando una **bicapa lipídica**.
+1. Tipo especial de lípidos que están formados por una **cabeza hidrofílica** y unas **colas hidrofóbicas**. Al agruparse en las membranas, las cabezas se orientan hacia los exteriores (dentro y fuera de la célula) y las colas hacia el interior, formando una **bicapa lipídica**.
 2. Los cromosomas humanos están organizados en 23 pares, sumando un total de 46 cromosomas en la mayoría de nuestras células.
+3. La habilidad de moverse espontánea e independientemente.
+4. Es el conjunto de microtúbulos que brotan de los centrosomas durante los procesos de división celular, sea mitosis (**huso mitótico**) o meiosis (**huso acromático o meiótico**).
 
 ### Orgánulos
 
@@ -63,7 +64,7 @@ Son más complejas que las procariotas, y generalmente más grandes. Es el tipo 
 * **Aparato de Golgi.** Es un conjunto de sacos membranosos aplanados y apilados conectados entre sí. En ellos se almacenan y procesan sustancias transferidas desde el retículo. Del aparato de Golgi se emiten **vesículas de secreción** que contienen productos que se vierten al exterior.
 * **Vesículas.** Son sacos membranosos de pequeño tamaño que almacenan, transportan o digieren distintas sustancias celulares. Los **lisosomas** son vesículas membranosas redondeadas, que se forman en el aparato de Golgi, y contienen enzimas hidrolíticas que participan en la digestión intracelular de sustancias.
 * **Ribosomas.** Son partículas no membranosas formadas por ARN y proteínas. Pueden estar libres en el citoplasma o adheridos al R. E. rugoso. Realizan la **síntesis de proteínas**.
-* **Centrosoma.** Está constituido por dos cilindros formados por microtúbulos proteicos llamados **centriolos**. Ambos se disponen de forma perpendicular y están rodeados de otros microtúbulos que forman el **áster**. Participan en la organización del citoesqueleto, la motilidad celular y la formación del huso mitótico cuando la célula se va a dividir
+
 * **Cilios y flagelos.** Son prolongaciones citoplasmáticas que intervienen en el movimiento celular. Tienen una estructura interna similar, pero los cilios son cortos y abundantes, y los flagelos son largos y una célula suele presentar uno o dos.
 * **Citoesqueleto.** Está formado por un conjunto de filamentos proteicos de distinto tipo. Su función es mantener la forma celular, facilitar el movimiento de la célula, de los orgánulos y de las vesículas internas. También participa en la organización de los cromosomas durante la división celular.
 
