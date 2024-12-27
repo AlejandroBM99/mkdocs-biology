@@ -2,6 +2,16 @@
 
 Las biomoléculas son moléculas formadas por bioelementos. Se dividen en biomoléculas inorgánicas y orgánicas.
 
+## Bioelementos
+
+Son los elementos químicos que forman parte de los seres vivos. Los más abundantes son cuatro:carbono (C), hidrógeno (H), oxígeno (O) y nitrógeno (N), y constituyen el 95 % de la masa total de los seres vivos.
+
+Otros elementos bastante abundantes son el calcio (Ca), el cloro (Cl), el fósforo (P) o el azufre (S).
+
+Pero en los seres vivos hay elementos químicos presentes en una proporción muy baja (menor al 0,1 %), aunque son indispensables para la vida. Se llaman **oligoelementos**. Los más importantes son el hierro (Fe), el cinc (Zn), el flúor (F), el yodo (I), el cobre (Cu) y el cobalto (Co)
+
+La falta de algún elemento puede provocar trastornos de la salud; por eso deben estar presentes en nuestra dieta en la cantidad adecuada. A esa cantidad se le denomina **CDR**, **cantidad diaria recomendada**. La CDR es la cantidad de un nutriente que una persona sana debe ingerir todos los días, a través de la dieta, para mantener un buen estado de salud.
+
 ## Biomoléculas inorgánicas
 
 * **Agua.** Es la sustancia más abundante en todos los seres vivos. Constituye alrededor del 65% de nuestro cuerpo, aunque su distribución varía de unos órganos a otros; por ejemplo, la sangre y el cerebro contienen mayor cantidad de agua que los huesos. Es también el componente principal de las células y de los líquidos internos, como la sangre.
