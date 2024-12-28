@@ -67,6 +67,7 @@ markdown_extensions:
           - overrides/.icons
 nav:
   - Inicio: index.md
+  - Pizza: pizza.md
   - Biomoléculas: organization/biomolecule.md
   - La Célula:
       - Introducción: cell/cell.md
