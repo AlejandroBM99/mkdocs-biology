@@ -80,28 +80,28 @@ Cada especia tiene un número característico de cromosomas. Se puede hablar de:
 
     ---
 
-    ![prokaryote.png](../img/prokaryote.png){width=250, align=right}  
+    ![metacentric.png](../img/metacentric.png){width=50, align=right}  
     El centrómero está situado en la parte media del cromosoma. Los brazos tienen aproximadamente la misma longitud.
 
 -   __Submetacéntricos__
 
     ---
 
-    ![prokaryote.png](../img/prokaryote.png){width=250, align=right}
+    ![submetacentric.png](../img/submetacentric.png){width=50, align=right}
     El centrómero está desplazado hacia uno de los lados. Los brazos son ligeramente desiguales.
 
 -   __Acrocéntricos__
 
     ---
 
-    ![prokaryote.png](../img/prokaryote.png){width=250, align=right}
+    ![acrocentric.png](../img/acrocentric.png){width=50, align=right}
     El centrómero está miuy desplazado hacia uno de los extremos del cromosoma. Los brazos son muy desiguales.
 
 -   __Telocéntricos__
 
     ---
 
-    ![prokaryote.png](../img/prokaryote.png){width=250, align=right}
+    ![telocentric.png](../img/telocentric.png){width=50, align=right}
     El centrómero se localiza en uno de los extremos del cromosoma. Solo es visible un brazo en el cromosoma.
 
 </div>
