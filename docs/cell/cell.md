@@ -61,6 +61,50 @@ Es la estructura más voluminosa de las células eucariotas. En él se encuentra
 </div>
 1. Los cromosomas humanos están organizados en 23 pares, sumando un total de 46 cromosomas en la mayoría de nuestras células.
 
+### Cromosomas
+
+Son estructuras con forma filamentosa que aparecen durante la división celular. Distribuyen información genética contenida en el ADN de la célula madre a las células hijas.
+
+Químicamente, los cromosomas están constituidos por ADN muy enrollado, al que se unen diferentes proteínas que mantienen su estructura. Cada cromosoma está formado por dos **cromátidas** que se unen en un punto denominado **centrómero**. Una cromátida contiene una molécula de ADN condensada y la otra posee otra molécula de ADN idéntica, resultado de la replicación, por ello se puede hablar en un cromosoma de **cromátidas hermanas**. Cada cromátida presenta dos **brazos** de igual o distinta longitud.
+
+#### Número de cromosomas
+
+Cada especia tiene un número característico de cromosomas. Se puede hablar de:
+
+* **Organismos haploides.** Poseen un solo juego de cromosomas en todas sus células. Se representan con la letra **n**, que indica el número de tipos diferentes de cromosomas presentes en cada célula.
+* **Organismos diploides.** Poseen en sus células somáticas (no reproductoras) dos juegos de cromosomas: uno heredado de cada progenitor. Por esta razón en los organismos diploides se reconocen parejas de cromosomas, que se denominan **homólogos**, que son iguales en forma y tamaño y poseen la información genética para los mismos caracteres. Los organismos diploides se representan con **2n**.
+
+<div class="grid cards" markdown>
+
+-   __Metacéntricos__
+
+    ---
+
+    ![prokaryote.png](../img/prokaryote.png){width=250, align=right}  
+    El centrómero está situado en la parte media del cromosoma. Los brazos tienen aproximadamente la misma longitud.
+
+-   __Submetacéntricos__
+
+    ---
+
+    ![prokaryote.png](../img/prokaryote.png){width=250, align=right}
+    El centrómero está desplazado hacia uno de los lados. Los brazos son ligeramente desiguales.
+
+-   __Acrocéntricos__
+
+    ---
+
+    ![prokaryote.png](../img/prokaryote.png){width=250, align=right}
+    El centrómero está miuy desplazado hacia uno de los extremos del cromosoma. Los brazos son muy desiguales.
+
+-   __Telocéntricos__
+
+    ---
+
+    ![prokaryote.png](../img/prokaryote.png){width=250, align=right}
+    El centrómero se localiza en uno de los extremos del cromosoma. Solo es visible un brazo en el cromosoma.
+
+</div>
 
 ### Orgánulos
 
