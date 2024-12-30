@@ -25,7 +25,7 @@ Estas células se componen de:
 
 ## Célula eucariota
 
-Son más complejas que las procariotas, y generalmente más grandes. Es el tipo de célula que tienen los seres humanos. Para dicha célula se generará una página nueva: [la célula eucariota](eukaryote).
+Son más complejas que las procariotas, y generalmente más grandes. Es el tipo de célula que tienen los seres humanos. Para dicha célula se generará una página nueva: [la célula eucariota](eukaryote.md).
 
 ## Catabolismo y anabolismo
 

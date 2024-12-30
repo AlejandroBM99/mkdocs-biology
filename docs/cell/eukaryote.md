@@ -56,28 +56,24 @@ Cada especia tiene un número característico de cromosomas. Se puede hablar de:
 -   __Metacéntricos__
 
     ---
-
     ![metacentric.png](../img/metacentric.png){width=50, align=right}  
     El centrómero está situado en la parte media del cromosoma. Los brazos tienen aproximadamente la misma longitud.
 
 -   __Submetacéntricos__
 
     ---
-
     ![submetacentric.png](../img/submetacentric.png){width=50, align=right}
     El centrómero está desplazado hacia uno de los lados. Los brazos son ligeramente desiguales.
 
 -   __Acrocéntricos__
 
     ---
-
     ![acrocentric.png](../img/acrocentric.png){width=50, align=right}
     El centrómero está miuy desplazado hacia uno de los extremos del cromosoma. Los brazos son muy desiguales.
 
 -   __Telocéntricos__
 
     ---
-
     ![telocentric.png](../img/telocentric.png){width=50, align=right}
     El centrómero se localiza en uno de los extremos del cromosoma. Solo es visible un brazo en el cromosoma.
 
@@ -129,25 +125,21 @@ Antes de iniciarse la división del núcleo, el ADN se duplica, pero los cromoso
 -   __Profase__
 
     ---
-
     La cromatina se condensa y los cromosomas se hacen visibles. Al final de la profase, el nucléolo y la envoltura nuclear desaparecen y comienza a constituirse el **huso mitótico**. Este huso mitótico está formado por la unión de los áster, es decir, microtúbulos que salen del centrosoma. Cuando el centrosoma se duplica durante el proceso de división, cada uno se dirige, al rededor del núcleo, a polos opuestos, uniendo los "cables" que son el áster y formando el huso mitótico.
 
 -   __Metafase__
 
     ---
-
     Los cromosomas, totalmente condensados, se disponen en el centro de la célula, formando la **placa ecuatorial**, y se adhieren por el centrómero a los filamentos de huso mitótico. Es decir, los puntos que unen a los cromosomas, que son los centrómeros, se colocan exactamente por donde pasan los filamentos del huso mitótico.
 
 -   __Anafase__
 
     ---
-
-    Las cromátidas hermanas de cada cromosoma se separan y se dirigen a polos opuestos de la célula, arrastradas por los filamentos del huso.
+    Las cromátidas hermanas (es decir, que están unidas por el centrómero) de cada cromosoma se separan y se dirigen a polos opuestos de la célula, arrastradas por los filamentos del huso.
 
 -   __Telofase__
 
     ---
-
     Reaparece el nucléolo y comienza a formarse la envoltura nuclear. Desaparece el huso mitótico y los cromosomas se condensan para constituir de nuevo la cromatina.
 
 </div>
@@ -170,3 +162,61 @@ Una vez concluida la división del núcleo tiene lugar la división del citoplas
 ## Meiosis
 
 Es un tipo de división reduccional, ya que a partir de una célula madre diploide (2n) se forman células hijas haploides (n), es decir, con la mitad del contenido de ADN que la célula progenitora. En todos los vertebrados, la meiosis tiene lugar en las **gónadas** y las células que se forman son los **gametos**. Durante la meiosis se producen dos divisiones nucleares sucesivas, por lo que al final se forman **cuatro células hijas haploides**, genéticamente diferentes entre sí y distintas a la célula madre.
+
+<div class="grid cards" markdown>
+
+-   __Interfase__
+
+    ---<
+    Antes de iniciarse la primera división meiótica tiene lugar un periodo de interfase en el que se duplica el ADN.
+
+</div>
+
+<div class="grid cards" markdown>
+
+-   __Profase I__
+
+    ---
+    Los cromosomas se condensan hasta hacerse visibles. Desaparece el nucléolo y se desorganiza la envoltura nuclear. Los cromosomas homólogos se aparean e intercambian fragmentos de ADN. Este proceso se conoce como **sobrecruzamiento**, y asegura que las células hijas sean genéticamente distintas a la célula madre.
+
+-   __Metafase I__
+
+    ---
+    Los cromosomas homólogos se disponen por parejas en el ecuador de la célula.
+
+-   __Anafase I__
+
+    ---
+    Arrastrados por los filamentos del huso, los cromosomas homólogos se separan y se dirigen a polos opuestos de la célula.
+
+-   __Telofase I y citocinesis__
+
+    ---
+    Se forman dos células hijas haploides (n) con la mitad de cromosomas que la célula madre.
+</div>
+
+<div class="grid cards" markdown>
+
+-   __Profase II__
+
+    ---
+    Sin pasar por un período de interfase, se vuelve a formar el huso. Los cromosomas, constituidos por dos cromátidas, se mueven hacia la placa ecuatorial.
+
+-   __Metafase II__
+
+    ---
+    Los cromosomas se disponen en el ecuador de la célula.
+
+-   __Anafase II__
+
+    ---
+    Se separan las cromátidas hermanas y cada una se dirige hacia un extremo de la célula.
+
+-   __Telofase II y citocinesis__
+
+    ---
+    Se obtienen cuatro células hijas haploides (n) distintas, cada una con la mitad de cromosomas que la célula madre.
+</div>
+
+![chromosomal-crossover.png](../img/chromosomal-crossover.png)
+*Entrecruzamiento de cromosomas*
